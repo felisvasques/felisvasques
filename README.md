@@ -120,8 +120,3 @@
     />
   </a>
 </p>
-
-
-------
-**Créditos:** [tuusuario](https://github.com/tuusuario)  
-**Última edición:** 29/10/2023
