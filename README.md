@@ -1,21 +1,30 @@
-<img 
-  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-  alt="Coding animation"
-  width="420px"
-  align="right"
-/>
-
-<h1 align="left">
-  Hi, I'm <code>Felix</code> 👋
-</h1>
-
-<p align="left">
-  Computer Science student passionate about backend development, software architecture, and building real projects that solve problems instead of just existing to decorate a portfolio.
-</p>
-
-<p align="left">
-  Right now I'm focused on improving my Python skills, writing cleaner code, understanding how scalable systems are structured, and becoming a better developer through consistent practice and real-world projects. Basically fighting bugs daily so future Felix suffers a little less.
-</p>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="100%" colspan="2">
+      <br>
+      <span style="font-size: 2.25em; font-weight: bold;">Hi, I'm <code>Felix</code> 👋</span>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="55%" align="left">
+      <p>
+        Computer Science student passionate about backend development, software architecture, and building real projects that solve problems instead of just existing to decorate a portfolio.
+      </p>
+      <p>
+        Right now I'm focused on improving my Python skills, writing cleaner code, understanding how scalable systems are structured, and becoming a better developer through consistent practice and real-world projects. Basically fighting bugs daily so future Felix suffers a little less.
+      </p>
+    </td>
+    <td valign="middle" width="45%" align="right">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+        alt="Coding animation"
+        width="100%"
+        style="max-width: 420px; border-radius: 8px;"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
 
