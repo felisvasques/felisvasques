@@ -1,5 +1,5 @@
 <img 
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+  src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" 
   alt="illustration of a computer" 
   min-width="400px" 
   max-width="400px" 
