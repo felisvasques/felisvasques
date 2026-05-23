@@ -39,6 +39,10 @@
 
 <br>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 <h2 align="left">📚 Currently Learning</h2>
 
 <ul>
@@ -49,19 +53,23 @@
   <li>Problem-solving and scalable project structure</li>
 </ul>
 
-<br>
+    </td>
+
+    <td valign="top" width="50%">
 
 <h2 align="left">🌎 Languages</h2>
 
-<p align="left">
-
 🇪🇸 Spanish  
-████████████████████  Native
+████████████████████ Native
+
+<br><br>
 
 🇺🇸 English  
-██████████████░░░░░░  Intermediate
+██████████████░░░░░░ Intermediate
 
-</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
