@@ -42,14 +42,6 @@
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h2>🌎 Languages</h2>
-      🇪🇸 Spanish<br>
-      ████████████████████ Native
-      <br><br>
-      🇺🇸 English<br>
-      ██████████████░░░░░░ Intermediate
-    </td>
-    <td valign="top" width="50%">
       <h2>📚 Currently Learning</h2>
       <ul>
         <li>Backend development with Python</li>
@@ -58,6 +50,14 @@
         <li>Development workflows using Git and Linux</li>
         <li>Problem-solving and scalable project structure</li>
       </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h2>🌎 Languages</h2>
+      🇪🇸 Spanish<br>
+      ████████████████████ Native
+      <br><br>
+      🇺🇸 English<br>
+      ██████████████░░░░░░ Intermediate
     </td>
   </tr>
 </table>
