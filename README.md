@@ -44,11 +44,11 @@
     <td valign="top" width="50%">
       <h2>📚 Currently Learning</h2>
       <ul>
-        <li>Backend development with Python</li>
-        <li>REST APIs and databases</li>
-        <li>Software architecture and clean code</li>
-        <li>Development workflows using Git and Linux</li>
-        <li>Problem-solving and scalable project structure</li>
+        <li>Backend with Python</li>
+        <li>REST APIs & Databases</li>
+        <li>Clean Code & Architecture</li>
+        <li>Git & Linux Workflows</li>
+        <li>Scalable Project Structure</li>
       </ul>
     </td>
     <td valign="top" width="50%">
