@@ -1,9 +1,12 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   
-  <tr>
+<tr>
     <td colspan="2">
       <br>
-      <span style="font-size: 2.25em; font-weight: bold;">Hi, I'm <code>Felix</code> 👋</span>
+      <span style="font-size: 3em; font-weight: bold;">
+        Hi, I'm <code>Felix</code> 
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48" style="vertical-align: middle;" alt="Waving hand"/>
+      </span>
       <br><br>
     </td>
   </tr>
