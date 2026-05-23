@@ -45,9 +45,13 @@
 
 <h2 align="left">📚 Currently Learning</h2>
 
-<p align="left">
-  I'm currently studying backend development with Python, REST APIs, databases, software architecture, and development workflows using Git and Linux. Also trying to understand why one missing semicolon can destroy emotional stability faster than any life event.
-</p>
+<ul>
+  <li>Backend development with Python</li>
+  <li>REST APIs and databases</li>
+  <li>Software architecture and clean code</li>
+  <li>Development workflows using Git and Linux</li>
+  <li>Problem-solving and scalable project structure</li>
+</ul>
 
 <br>
 
