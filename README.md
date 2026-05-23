@@ -39,11 +39,12 @@
 
 <br>
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
 
-<h2 align="left">📚 Currently Learning</h2>
+    <td valign="top" width="50%" align="left">
+
+<h2>📚 Currently Learning</h2>
 
 <ul>
   <li>Backend development with Python</li>
@@ -55,9 +56,9 @@
 
     </td>
 
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="left">
 
-<h2 align="left">🌎 Languages</h2>
+<h2>🌎 Languages</h2>
 
 🇪🇸 Spanish  
 ████████████████████ Native
@@ -68,6 +69,7 @@
 ██████████████░░░░░░ Intermediate
 
     </td>
+
   </tr>
 </table>
 
