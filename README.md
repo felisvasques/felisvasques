@@ -3,9 +3,9 @@
 <tr>
     <td colspan="2">
       <br>
-      <span style="font-size: 3em; font-weight: bold;">
+      <span style="font-size: 60px; font-weight: bold;">
         Hi, I'm <code>Felix</code> 
-        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48" style="vertical-align: middle;" alt="Waving hand"/>
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60" style="vertical-align: middle;" alt="Waving hand"/>
       </span>
       <br><br>
     </td>
