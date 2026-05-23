@@ -1,11 +1,13 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
+  
   <tr>
-    <td width="100%" colspan="2">
+    <td colspan="2">
       <br>
       <span style="font-size: 2.25em; font-weight: bold;">Hi, I'm <code>Felix</code> 👋</span>
       <br><br>
     </td>
   </tr>
+  
   <tr>
     <td valign="top" width="55%" align="left">
       <p>
@@ -24,13 +26,10 @@
       />
     </td>
   </tr>
-</table>
 
-<br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="100%">
+    <td colspan="2">
+      <br>
       <h2>⚡ Tech Stack</h2>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -42,13 +41,9 @@
       </p>
     </td>
   </tr>
-</table>
 
-<br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="55%">
       <h2>📚 Currently Learning</h2>
       <ul>
         <li>Backend with Python</li>
@@ -58,25 +53,19 @@
         <li>Scalable Project Structure</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="45%">
       <h2>🌎 Languages</h2>
-      <p>
-        🇪🇸 Spanish<br>
-        <code>████████████████████</code> Native
-      </p>
-      <p>
-        🇺🇸 English<br>
-        <code>██████████████░░░░░░</code> Intermediate
-      </p>
+      <b>🇪🇸 Spanish</b><br>
+      <code>████████████████████</code> Native
+      <br><br>
+      <b>🇺🇸 English</b><br>
+      <code>██████████████░░░░░░</code> Intermediate
     </td>
   </tr>
-</table>
 
-<br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="100%">
+    <td colspan="2">
+      <br>
       <h2>📫 Contact</h2>
       <p>
         <a href="mailto:felixvasquez.info@gmail.com">
