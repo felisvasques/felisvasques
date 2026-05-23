@@ -53,11 +53,16 @@
     </td>
     <td valign="top" width="50%">
       <h2>🌎 Languages</h2>
-      🇪🇸 Spanish<br>
-      ████████████████████ Native
-      <br><br>
-      🇺🇸 English<br>
-      ██████████████░░░░░░ Intermediate
+      
+      <span>🇪🇸 Spanish</span><br>
+      <code>████████████████████</code>
+      <p>Native</p>
+      
+      <br>
+      
+      <span>🇺🇸 English</span><br>
+      <code>██████████████░░░░░░</code>
+      <p>Intermediate</p>
     </td>
   </tr>
 </table>
