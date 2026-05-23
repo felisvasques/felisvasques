@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  Right now I'm focused on improving my Python skills, writing cleaner code, understanding how real systems are structured, and building projects that push me beyond tutorial-level development. Slowly turning caffeine into commits and bugs into character development.
+  Right now I'm focused on improving my Python skills, writing cleaner code, understanding how scalable systems are structured, and becoming a better developer through consistent practice and real-world projects. Basically fighting bugs daily so future Felix suffers a little less.
 </p>
 
 <br>
@@ -31,7 +31,7 @@
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
@@ -46,30 +46,8 @@
 <h2 align="left">📚 Currently Learning</h2>
 
 <p align="left">
-
-  <img src="https://img.shields.io/badge/Backend_Development-222222?style=for-the-badge" alt="Backend"/>
-
-  <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge" alt="REST APIs"/>
-
-  <img src="https://img.shields.io/badge/Software_Architecture-5C2D91?style=for-the-badge" alt="Architecture"/>
-
-  <img src="https://img.shields.io/badge/Data_Structures-0A66C2?style=for-the-badge" alt="Data Structures"/>
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
+  I'm currently studying backend development with Python, REST APIs, databases, software architecture, and development workflows using Git and Linux. Also trying to understand why one missing semicolon can destroy emotional stability faster than any life event.
 </p>
-
-<br>
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-<ul>
-  <li><strong>Expense Tracker</strong> → Python project focused on clean structure and scalability.</li>
-  
-  <li><strong>PulseCity AI</strong> → AI-focused platform and experimental development environment.</li>
-  
-  <li><strong>Web Projects</strong> → Frontend and full-stack experiments built while learning modern development workflows.</li>
-</ul>
 
 <br>
 
@@ -82,19 +60,6 @@
 
 🇺🇸 English  
 ██████████████░░░░░░  Intermediate
-
-</p>
-
-<br>
-
-<h2 align="left">📈 Coding Activity</h2>
-
-<p align="left">
-
-🌞 Morning &nbsp;&nbsp;&nbsp; ███░░░░░░░░░░░░░░░░░░░░░  
-🌆 Daytime &nbsp;&nbsp;&nbsp; ██████████░░░░░░░░░░░░░  
-🌃 Evening &nbsp;&nbsp;&nbsp; █████████░░░░░░░░░░░░░░  
-🌙 Night &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████░░░░░░░░░░░░░░░░░  
 
 </p>
 
