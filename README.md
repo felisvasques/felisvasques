@@ -41,40 +41,24 @@
 
 <table width="100%">
   <tr>
-
-    <td valign="top" width="50%" align="left">
-
-<table width="100%">
-  <tr>
-
-    <td valign="top" width="50%" align="left">
-
-<h2>🌎 Languages</h2>
-
-🇪🇸 Spanish  
-████████████████████ Native
-
-<br><br>
-
-🇺🇸 English  
-██████████████░░░░░░ Intermediate
-
+    <td valign="top" width="50%">
+      <h2>🌎 Languages</h2>
+      🇪🇸 Spanish<br>
+      ████████████████████ Native
+      <br><br>
+      🇺🇸 English<br>
+      ██████████████░░░░░░ Intermediate
     </td>
-
-    <td valign="top" width="50%" align="left">
-
-<h2>📚 Currently Learning</h2>
-
-<ul>
-  <li>Backend development with Python</li>
-  <li>REST APIs and databases</li>
-  <li>Software architecture and clean code</li>
-  <li>Development workflows using Git and Linux</li>
-  <li>Problem-solving and scalable project structure</li>
-</ul>
-
+    <td valign="top" width="50%">
+      <h2>📚 Currently Learning</h2>
+      <ul>
+        <li>Backend development with Python</li>
+        <li>REST APIs and databases</li>
+        <li>Software architecture and clean code</li>
+        <li>Development workflows using Git and Linux</li>
+        <li>Problem-solving and scalable project structure</li>
+      </ul>
     </td>
-
   </tr>
 </table>
 
