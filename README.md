@@ -1,7 +1,7 @@
 <img 
-  src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" 
-  alt="coding illustration"
-  width="380px"
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  alt="Coding animation"
+  width="420px"
   align="right"
 />
 
@@ -10,11 +10,11 @@
 </h1>
 
 <p align="left">
-  Computer Science student focused on software development and modern web technologies.
+  Computer Science student passionate about backend development, software architecture, and building real projects that solve problems instead of just existing to decorate a portfolio.
 </p>
 
 <p align="left">
-  Currently learning and building projects with Python, web development, Git, and backend fundamentals.
+  Right now I'm focused on improving my Python skills, writing cleaner code, understanding how real systems are structured, and building projects that push me beyond tutorial-level development. Slowly turning caffeine into commits and bugs into character development.
 </p>
 
 <br>
@@ -64,9 +64,11 @@
 <h2 align="left">🚀 Featured Projects</h2>
 
 <ul>
-  <li>Expense Tracker in Python</li>
-  <li>PulseCity AI</li>
-  <li>Personal web development projects</li>
+  <li><strong>Expense Tracker</strong> → Python project focused on clean structure and scalability.</li>
+  
+  <li><strong>PulseCity AI</strong> → AI-focused platform and experimental development environment.</li>
+  
+  <li><strong>Web Projects</strong> → Frontend and full-stack experiments built while learning modern development workflows.</li>
 </ul>
 
 <br>
@@ -75,9 +77,24 @@
 
 <p align="left">
 
-  <img src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" alt="Spanish"/>
+🇪🇸 Spanish  
+████████████████████  Native
 
-  <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge" alt="English"/>
+🇺🇸 English  
+██████████████░░░░░░  Intermediate
+
+</p>
+
+<br>
+
+<h2 align="left">📈 Coding Activity</h2>
+
+<p align="left">
+
+🌞 Morning &nbsp;&nbsp;&nbsp; ███░░░░░░░░░░░░░░░░░░░░░  
+🌆 Daytime &nbsp;&nbsp;&nbsp; ██████████░░░░░░░░░░░░░  
+🌃 Evening &nbsp;&nbsp;&nbsp; █████████░░░░░░░░░░░░░░  
+🌙 Night &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████░░░░░░░░░░░░░░░░░  
 
 </p>
 
