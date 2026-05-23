@@ -2,12 +2,10 @@
   
 <tr>
     <td colspan="2">
-      <br>
-      <span style="font-size: 60px; font-weight: bold;">
+      <h1 style="border-bottom: none; border: 0;">
         Hi, I'm <code>Felix</code> 
-        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60" style="vertical-align: middle;" alt="Waving hand"/>
-      </span>
-      <br><br>
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" style="vertical-align: middle;" alt="Waving hand"/>
+      </h1>
     </td>
   </tr>
   
